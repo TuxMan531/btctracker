@@ -1,0 +1,2164 @@
+amount1 = 0.00678153
+execution_price1 = 65862.78
+amount2 = 0.00601886
+execution_price2 = 66457.77 
+7/30
+--------------
+Profit/Loss: $4.45 at 2024-07-31 02:26 BTC 66490
+Profit/Loss: $3.65 at 2024-07-31 02:27 BTC 66428
+Profit/Loss: $3.65 at 2024-07-31 02:27 BTC 66428
+Profit/Loss: $3.65 at 2024-07-31 02:27 BTC 66428
+Profit/Loss: $3.65 at 2024-07-31 02:28 BTC 66428
+Profit/Loss: $3.65 at 2024-07-31 02:28 BTC 66428
+Profit/Loss: $3.65 at 2024-07-31 02:29 BTC 66428
+Profit/Loss: $3.65 at 2024-07-31 02:30 BTC 66428
+Profit/Loss: $3.65 at 2024-07-31 02:31 BTC 66428
+Profit/Loss: $3.65 at 2024-07-31 02:32 BTC 66428
+Profit/Loss: $1.90 at 2024-07-31 02:33 BTC 66291
+Profit/Loss: $1.90 at 2024-07-31 02:34 BTC 66291
+Profit/Loss: $1.90 at 2024-07-31 02:35 BTC 66291
+Profit/Loss: $1.90 at 2024-07-31 02:36 BTC 66291
+Profit/Loss: $1.90 at 2024-07-31 02:37 BTC 66291
+Profit/Loss: $1.95 at 2024-07-31 02:38 BTC 66295
+Profit/Loss: $1.95 at 2024-07-31 02:39 BTC 66295
+
+----  5 mine delay
+Profit/Loss: $1.95 at 2024-07-31 02:41 BTC 66295
+Profit/Loss: $1.45 at 2024-07-31 02:42 BTC 66256
+Profit/Loss: $1.45 at 2024-07-31 02:43 BTC 66256
+Profit/Loss: $1.45 at 2024-07-31 02:43 BTC 66256
+Profit/Loss: $1.45 at 2024-07-31 02:44 BTC 66256
+Profit/Loss: $1.94 at 2024-07-31 02:49 BTC 66294
+Profit/Loss: $2.57 at 2024-07-31 02:54 BTC 66343
+Profit/Loss: $1.00 at 2024-07-31 03:00 BTC 66221
+Profit/Loss: $0.97 at 2024-07-31 03:05 BTC 66218
+Profit/Loss: $0.24 at 2024-07-31 03:10 BTC 66161
+Profit/Loss: $-1.12 at 2024-07-31 03:15 BTC 66055
+Profit/Loss: $-1.02 at 2024-07-31 03:20 BTC 66063
+Profit/Loss: $1.27 at 2024-07-31 03:25 BTC 66242
+Profit/Loss: $1.75 at 2024-07-31 03:30 BTC 66279
+Profit/Loss: $1.38 at 2024-07-31 03:35 BTC 66250
+Profit/Loss: $1.32 at 2024-07-31 03:40 BTC 66246
+Profit/Loss: $2.27 at 2024-07-31 03:45 BTC 66320
+Profit/Loss: $2.46 at 2024-07-31 03:51 BTC 66335
+Profit/Loss: $1.98 at 2024-07-31 03:56 BTC 66297
+Profit/Loss: $2.37 at 2024-07-31 04:01 BTC 66328
+Profit/Loss: $1.77 at 2024-07-31 04:06 BTC 66281
+Profit/Loss: $2.41 at 2024-07-31 04:11 BTC 66331
+Profit/Loss: $0.85 at 2024-07-31 04:16 BTC 66209
+Profit/Loss: $0.25 at 2024-07-31 04:21 BTC 66162
+Profit/Loss: $0.25 at 2024-07-31 04:22 BTC 66162
+Profit/Loss: $1.66 at 2024-07-31 04:23 BTC 66272
+Profit/Loss: $1.96 at 2024-07-31 04:28 BTC 66296
+Profit/Loss: $1.85 at 2024-07-31 04:32 BTC 66287
+Profit/Loss: $1.85 at 2024-07-31 04:33 BTC 66287
+Profit/Loss: $1.89 at 2024-07-31 04:38 BTC 66290
+Profit/Loss: $1.94 at 2024-07-31 04:43 BTC 66294
+Profit/Loss: $1.59 at 2024-07-31 04:49 BTC 66267
+Profit/Loss: $0.52 at 2024-07-31 04:54 BTC 66183
+Profit/Loss: $1.53 at 2024-07-31 04:59 BTC 66262
+Profit/Loss: $0.72 at 2024-07-31 05:04 BTC 66199
+Profit/Loss: $-0.05 at 2024-07-31 05:09 BTC 66139
+Profit/Loss: $-0.94 at 2024-07-31 05:14 BTC 66069
+Profit/Loss: $-0.49 at 2024-07-31 05:19 BTC 66104
+Profit/Loss: $-0.47 at 2024-07-31 05:24 BTC 66106
+Profit/Loss: $-0.40 at 2024-07-31 05:29 BTC 66111
+Profit/Loss: $-0.39 at 2024-07-31 05:34 BTC 66112
+Profit/Loss: $-1.15 at 2024-07-31 05:40 BTC 66053
+Profit/Loss: $-1.17 at 2024-07-31 05:45 BTC 66051
+Profit/Loss: $-1.91 at 2024-07-31 05:50 BTC 65993
+Profit/Loss: $-1.66 at 2024-07-31 05:55 BTC 66013
+Profit/Loss: $-1.44 at 2024-07-31 06:00 BTC 66030
+Profit/Loss: $-2.66 at 2024-07-31 06:05 BTC 65935
+Profit/Loss: $-2.09 at 2024-07-31 06:10 BTC 65979
+Profit/Loss: $-0.99 at 2024-07-31 06:15 BTC 66065
+Profit/Loss: $-0.47 at 2024-07-31 06:20 BTC 66106
+Profit/Loss: $-0.56 at 2024-07-31 06:25 BTC 66099
+Profit/Loss: $-1.17 at 2024-07-31 06:31 BTC 66051
+Profit/Loss: $-0.78 at 2024-07-31 06:36 BTC 66082
+Profit/Loss: $-0.40 at 2024-07-31 06:41 BTC 66111
+Profit/Loss: $-1.54 at 2024-07-31 06:46 BTC 66022
+Profit/Loss: $-1.43 at 2024-07-31 06:51 BTC 66031
+Profit/Loss: $-1.13 at 2024-07-31 06:56 BTC 66054
+Profit/Loss: $-1.01 at 2024-07-31 07:01 BTC 66064
+Profit/Loss: $-1.02 at 2024-07-31 07:06 BTC 66063
+Profit/Loss: $-0.70 at 2024-07-31 07:11 BTC 66088
+Profit/Loss: $-0.42 at 2024-07-31 07:16 BTC 66110
+Profit/Loss: $-0.33 at 2024-07-31 07:22 BTC 66117
+Profit/Loss: $-0.51 at 2024-07-31 07:27 BTC 66103
+Profit/Loss: $-1.71 at 2024-07-31 07:32 BTC 66009
+Profit/Loss: $-0.84 at 2024-07-31 07:37 BTC 66077
+Profit/Loss: $-0.17 at 2024-07-31 07:42 BTC 66129
+Profit/Loss: $0.04 at 2024-07-31 07:47 BTC 66146
+Profit/Loss: $1.04 at 2024-07-31 07:52 BTC 66224
+Profit/Loss: $0.11 at 2024-07-31 07:57 BTC 66151
+Profit/Loss: $-1.18 at 2024-07-31 08:02 BTC 66050
+Profit/Loss: $-0.31 at 2024-07-31 08:08 BTC 66118
+Profit/Loss: $1.13 at 2024-07-31 08:13 BTC 66231
+Profit/Loss: $0.98 at 2024-07-31 08:18 BTC 66219
+Profit/Loss: $2.22 at 2024-07-31 08:23 BTC 66316
+Profit/Loss: $3.59 at 2024-07-31 08:28 BTC 66423
+Profit/Loss: $3.50 at 2024-07-31 08:33 BTC 66416
+Profit/Loss: $3.69 at 2024-07-31 08:38 BTC 66431
+Profit/Loss: $5.69 at 2024-07-31 08:43 BTC 66587
+Profit/Loss: $7.37 at 2024-07-31 08:48 BTC 66718
+Profit/Loss: $4.93 at 2024-07-31 08:53 BTC 66528
+Profit/Loss: $3.62 at 2024-07-31 08:59 BTC 66425
+Profit/Loss: $5.75 at 2024-07-31 09:04 BTC 66592
+Profit/Loss: $7.14 at 2024-07-31 09:09 BTC 66700
+Profit/Loss: $5.97 at 2024-07-31 09:14 BTC 66609
+Profit/Loss: $3.13 at 2024-07-31 09:19 BTC 66387
+Profit/Loss: $2.45 at 2024-07-31 09:24 BTC 66334
+Profit/Loss: $0.03 at 2024-07-31 09:29 BTC 66145
+Profit/Loss: $0.52 at 2024-07-31 09:34 BTC 66183
+Profit/Loss: $1.48 at 2024-07-31 09:39 BTC 66258
+Profit/Loss: $3.39 at 2024-07-31 09:44 BTC 66407
+Profit/Loss: $2.98 at 2024-07-31 09:50 BTC 66375
+Profit/Loss: $1.66 at 2024-07-31 09:55 BTC 66272
+Profit/Loss: $2.26 at 2024-07-31 10:00 BTC 66319
+Profit/Loss: $2.95 at 2024-07-31 10:05 BTC 66373
+Profit/Loss: $2.57 at 2024-07-31 10:10 BTC 66343
+Profit/Loss: $3.99 at 2024-07-31 10:15 BTC 66454
+Profit/Loss: $3.62 at 2024-07-31 10:20 BTC 66425
+Profit/Loss: $4.47 at 2024-07-31 10:25 BTC 66492
+Profit/Loss: $4.31 at 2024-07-31 10:30 BTC 66479
+Profit/Loss: $2.72 at 2024-07-31 10:35 BTC 66355
+Profit/Loss: $3.73 at 2024-07-31 10:41 BTC 66434
+Profit/Loss: $4.69 at 2024-07-31 10:46 BTC 66509
+Profit/Loss: $3.53 at 2024-07-31 10:51 BTC 66418
+Profit/Loss: $3.64 at 2024-07-31 10:56 BTC 66427
+Profit/Loss: $2.27 at 2024-07-31 11:01 BTC 66320
+Profit/Loss: $2.92 at 2024-07-31 11:06 BTC 66371
+Profit/Loss: $3.92 at 2024-07-31 11:11 BTC 66449
+Profit/Loss: $5.48 at 2024-07-31 11:16 BTC 66571
+Profit/Loss: $6.07 at 2024-07-31 11:21 BTC 66617
+Profit/Loss: $7.33 at 2024-07-31 11:26 BTC 66715
+Profit/Loss: $5.50 at 2024-07-31 11:32 BTC 66572
+Profit/Loss: $3.63 at 2024-07-31 11:37 BTC 66426
+Profit/Loss: $3.01 at 2024-07-31 11:42 BTC 66378
+Profit/Loss: $3.37 at 2024-07-31 11:47 BTC 66406
+Profit/Loss: $2.17 at 2024-07-31 11:52 BTC 66312
+Profit/Loss: $3.46 at 2024-07-31 11:57 BTC 66413
+Profit/Loss: $3.17 at 2024-07-31 12:02 BTC 66390
+Profit/Loss: $2.08 at 2024-07-31 12:07 BTC 66305
+Profit/Loss: $4.19 at 2024-07-31 12:12 BTC 66470
+Profit/Loss: $3.14 at 2024-07-31 12:18 BTC 66388
+Profit/Loss: $3.54 at 2024-07-31 12:23 BTC 66419
+Profit/Loss: $4.83 at 2024-07-31 12:28 BTC 66520
+Profit/Loss: $4.68 at 2024-07-31 12:33 BTC 66508
+Profit/Loss: $4.70 at 2024-07-31 12:38 BTC 66510
+Profit/Loss: $6.11 at 2024-07-31 12:43 BTC 66620
+Profit/Loss: $6.88 at 2024-07-31 12:48 BTC 66680
+Profit/Loss: $7.06 at 2024-07-31 12:53 BTC 66694
+Profit/Loss: $7.71 at 2024-07-31 12:58 BTC 66745
+Profit/Loss: $6.57 at 2024-07-31 13:03 BTC 66656
+Profit/Loss: $5.24 at 2024-07-31 13:09 BTC 66552
+Profit/Loss: $6.23 at 2024-07-31 13:14 BTC 66629
+Profit/Loss: $2.55 at 2024-07-31 13:19 BTC 66342
+Profit/Loss: $2.85 at 2024-07-31 13:24 BTC 66365
+Profit/Loss: $2.04 at 2024-07-31 13:29 BTC 66302
+Profit/Loss: $-0.49 at 2024-07-31 13:34 BTC 66104
+Profit/Loss: $3.73 at 2024-07-31 13:39 BTC 66434
+Profit/Loss: $0.18 at 2024-07-31 13:44 BTC 66157
+Profit/Loss: $6.23 at 2024-07-31 13:49 BTC 66629
+Profit/Loss: $5.45 at 2024-07-31 13:54 BTC 66568
+Profit/Loss: $4.72 at 2024-07-31 14:00 BTC 66511
+Profit/Loss: $5.88 at 2024-07-31 14:05 BTC 66602
+Profit/Loss: $3.91 at 2024-07-31 14:10 BTC 66448
+Profit/Loss: $1.23 at 2024-07-31 14:15 BTC 66239
+Profit/Loss: $0.72 at 2024-07-31 14:20 BTC 66199
+Profit/Loss: $-1.01 at 2024-07-31 14:25 BTC 66064
+Profit/Loss: $-5.81 at 2024-07-31 14:30 BTC 65689
+Profit/Loss: $-5.04 at 2024-07-31 14:35 BTC 65749
+Profit/Loss: $-3.92 at 2024-07-31 14:40 BTC 65836
+Profit/Loss: $-6.87 at 2024-07-31 14:45 BTC 65606
+Profit/Loss: $-7.32 at 2024-07-31 14:51 BTC 65571
+Profit/Loss: $-13.87 at 2024-07-31 14:56 BTC 65059
+Profit/Loss: $-11.86 at 2024-07-31 15:01 BTC 65216
+Profit/Loss: $-11.96 at 2024-07-31 15:06 BTC 65208
+Profit/Loss: $-11.34 at 2024-07-31 15:11 BTC 65257
+Profit/Loss: $-14.19 at 2024-07-31 15:16 BTC 65034
+Profit/Loss: $-14.83 at 2024-07-31 15:21 BTC 64984
+Profit/Loss: $-16.65 at 2024-07-31 15:26 BTC 64842
+Profit/Loss: $-17.19 at 2024-07-31 15:31 BTC 64800
+Profit/Loss: $-18.49 at 2024-07-31 15:36 BTC 64698
+Profit/Loss: $-19.28 at 2024-07-31 15:42 BTC 64636
+Profit/Loss: $-18.92 at 2024-07-31 16:16 BTC 65011
+--------------------------- beeg change
+
+Profit/Loss: $-24.08 at 2024-07-31 16:51 BTC 64726
+Profit/Loss: $-7.71 at 2024-07-31 16:51 BTC 64726
+Profit/Loss: $-10.42 at 2024-07-31 16:51 BTC 64726
+Profit/Loss: $-4.31 at 2024-07-31 16:51 BTC 64726
+Profit/Loss: $-1.64 at 2024-07-31 16:51 BTC 64726
+
+Profit/Loss TOTAL: $-24.08 at 2024-07-31 16:53 BTC 64726
+Profit/Loss: $-7.71 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.42 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.31 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.64 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-20.91 at 2024-07-31 16:58 BTC 64901
+Profit/Loss: $-6.52 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.37 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.64 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.38 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-19.42 at 2024-07-31 17:03 BTC 64983
+Profit/Loss: $-5.97 at 65862.78 with 0.00678153btc
+Profit/Loss: $-8.88 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.33 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.25 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-18.70 at 2024-07-31 17:08 BTC 65023
+Profit/Loss: $-5.69 at 65862.78 with 0.00678153btc
+Profit/Loss: $-8.64 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.18 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.19 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-21.92 at 2024-07-31 17:13 BTC 64845
+Profit/Loss: $-6.90 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.71 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.85 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.46 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-21.92 at 2024-07-31 17:18 BTC 64845
+Profit/Loss: $-6.90 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.71 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.85 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.46 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-22.47 at 2024-07-31 17:24 BTC 64815
+Profit/Loss: $-7.11 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.89 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.97 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.51 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.46 at 2024-07-31 17:29 BTC 64705
+Profit/Loss: $-7.85 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.55 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.39 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.67 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.37 at 2024-07-31 17:34 BTC 64655
+Profit/Loss: $-8.19 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.85 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.57 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.75 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.08 at 2024-07-31 17:39 BTC 64726
+Profit/Loss: $-7.71 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.42 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.31 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.64 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-21.74 at 2024-07-31 17:44 BTC 64855
+Profit/Loss: $-6.83 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.65 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.82 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.45 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-22.03 at 2024-07-31 17:49 BTC 64839
+Profit/Loss: $-6.94 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.74 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.88 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.47 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-20.20 at 2024-07-31 17:54 BTC 64940
+Profit/Loss: $-6.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.14 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.49 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.32 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-19.37 at 2024-07-31 17:59 BTC 64986
+Profit/Loss: $-5.95 at 65862.78 with 0.00678153btc
+Profit/Loss: $-8.86 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.32 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.25 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-20.22 at 2024-07-31 18:04 BTC 64939
+Profit/Loss: $-6.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.14 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.50 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.32 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-20.93 at 2024-07-31 18:09 BTC 64900
+Profit/Loss: $-6.53 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.38 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.64 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.38 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-22.47 at 2024-07-31 18:15 BTC 64815
+Profit/Loss: $-7.11 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.89 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.97 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.51 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.01 at 2024-07-31 18:20 BTC 64730
+Profit/Loss: $-7.68 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.40 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.29 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.64 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.64 at 2024-07-31 18:25 BTC 64695
+Profit/Loss: $-7.92 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.61 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.42 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.69 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-23.30 at 2024-07-31 18:30 BTC 64769
+Profit/Loss: $-7.42 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.16 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.14 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.58 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.28 at 2024-07-31 18:35 BTC 64715
+Profit/Loss: $-7.78 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.49 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.35 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.66 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-23.48 at 2024-07-31 18:40 BTC 64759
+Profit/Loss: $-7.49 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.22 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.18 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.59 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.31 at 2024-07-31 18:45 BTC 64658
+Profit/Loss: $-8.17 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.83 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.56 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.75 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.59 at 2024-07-31 18:50 BTC 64698
+Profit/Loss: $-7.90 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.59 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.41 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.69 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.60 at 2024-07-31 18:55 BTC 64642
+Profit/Loss: $-8.28 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.93 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.62 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.77 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.51 at 2024-07-31 19:01 BTC 64647
+Profit/Loss: $-8.24 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.90 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.61 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.76 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.02 at 2024-07-31 19:06 BTC 64674
+Profit/Loss: $-8.06 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.74 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.50 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.72 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-23.75 at 2024-07-31 19:11 BTC 64744
+Profit/Loss: $-7.59 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.31 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.24 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.62 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.96 at 2024-07-31 19:16 BTC 64622
+Profit/Loss: $-8.41 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.05 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.70 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.80 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.48 at 2024-07-31 19:21 BTC 64649
+Profit/Loss: $-8.23 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.89 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.60 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.76 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-26.67 at 2024-07-31 19:26 BTC 64583
+Profit/Loss: $-8.68 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.28 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.85 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.86 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.91 at 2024-07-31 19:31 BTC 64625
+Profit/Loss: $-8.39 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.03 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.69 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.80 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.68 at 2024-07-31 19:36 BTC 64693
+Profit/Loss: $-7.93 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.62 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.43 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.69 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-22.36 at 2024-07-31 19:41 BTC 64821
+Profit/Loss: $-7.06 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.85 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.94 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.50 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.71 at 2024-07-31 19:46 BTC 64691
+Profit/Loss: $-7.95 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.63 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.44 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.70 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-30.17 at 2024-07-31 19:52 BTC 64390
+Profit/Loss: $-9.99 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.45 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.58 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.15 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-26.18 at 2024-07-31 19:57 BTC 64610
+Profit/Loss: $-8.50 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.12 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.75 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.82 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.26 at 2024-07-31 20:02 BTC 64661
+Profit/Loss: $-8.15 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.81 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.55 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.74 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-24.01 at 2024-07-31 20:07 BTC 64730
+Profit/Loss: $-7.68 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.40 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.29 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.64 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-28.43 at 2024-07-31 20:12 BTC 64486
+Profit/Loss: $-9.34 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.87 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.22 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.01 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-25.93 at 2024-07-31 20:17 BTC 64624
+Profit/Loss: $-8.40 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.04 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.69 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.80 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-28.88 at 2024-07-31 20:22 BTC 64461
+Profit/Loss: $-9.51 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.02 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.31 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.05 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-29.90 at 2024-07-31 20:27 BTC 64405
+Profit/Loss: $-9.89 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.36 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.52 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.13 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-26.65 at 2024-07-31 20:32 BTC 64584
+Profit/Loss: $-8.67 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.28 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.84 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.86 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-31.73 at 2024-07-31 20:37 BTC 64304
+Profit/Loss: $-10.57 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.96 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.91 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.28 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-32.65 at 2024-07-31 20:43 BTC 64253
+Profit/Loss: $-10.92 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.27 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.10 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.36 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-30.71 at 2024-07-31 20:48 BTC 64360
+Profit/Loss: $-10.19 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.63 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.69 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.20 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-30.96 at 2024-07-31 20:53 BTC 64346
+Profit/Loss: $-10.29 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.71 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.75 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.22 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-32.99 at 2024-07-31 20:58 BTC 64234
+Profit/Loss: $-11.05 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.38 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.17 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.39 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-34.84 at 2024-07-31 21:03 BTC 64132
+Profit/Loss: $-11.74 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.00 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.56 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.55 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-38.79 at 2024-07-31 21:08 BTC 63914
+Profit/Loss: $-13.22 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.31 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.39 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.88 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-36.91 at 2024-07-31 21:13 BTC 64018
+Profit/Loss: $-12.51 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.68 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.99 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.72 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-33.28 at 2024-07-31 21:18 BTC 64218
+Profit/Loss: $-11.15 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.48 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.23 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.41 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-36.00 at 2024-07-31 21:23 BTC 64068
+Profit/Loss: $-12.17 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.38 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.80 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.64 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-38.88 at 2024-07-31 21:28 BTC 63909
+Profit/Loss: $-13.25 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.34 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.41 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.88 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-37.41 at 2024-07-31 21:34 BTC 63990
+Profit/Loss: $-12.70 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.85 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.10 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.76 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-34.35 at 2024-07-31 21:39 BTC 64159
+Profit/Loss: $-11.55 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.84 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.46 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.50 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-36.45 at 2024-07-31 21:44 BTC 64043
+Profit/Loss: $-12.34 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.53 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.90 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.68 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-37.27 at 2024-07-31 21:49 BTC 63998
+Profit/Loss: $-12.65 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.81 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.07 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.75 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-39.28 at 2024-07-31 21:54 BTC 63887
+Profit/Loss: $-13.40 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.47 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.49 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.92 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-37.03 at 2024-07-31 21:59 BTC 64011
+Profit/Loss: $-12.56 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.73 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.02 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.73 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-35.47 at 2024-07-31 22:04 BTC 64097
+Profit/Loss: $-11.97 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.21 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.69 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.60 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-38.07 at 2024-07-31 22:09 BTC 63954
+Profit/Loss: $-12.94 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.07 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.24 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.82 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-40.09 at 2024-07-31 22:14 BTC 63842
+Profit/Loss: $-13.70 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.74 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.66 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.99 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-39.51 at 2024-07-31 22:19 BTC 63874
+Profit/Loss: $-13.49 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.55 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.54 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.94 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-40.26 at 2024-07-31 22:25 BTC 63833
+Profit/Loss: $-13.77 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.80 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.70 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.00 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-38.05 at 2024-07-31 22:30 BTC 63955
+Profit/Loss: $-12.94 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.06 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.23 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.81 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-36.63 at 2024-07-31 22:35 BTC 64033
+Profit/Loss: $-12.41 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.59 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.94 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.70 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-36.92 at 2024-07-31 22:40 BTC 64017
+Profit/Loss: $-12.52 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.69 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.00 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.72 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-39.32 at 2024-07-31 22:45 BTC 63885
+Profit/Loss: $-13.41 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.49 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.50 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.92 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-37.94 at 2024-07-31 22:50 BTC 63961
+Profit/Loss: $-12.90 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.03 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.21 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.80 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-36.94 at 2024-07-31 22:55 BTC 64016
+Profit/Loss: $-12.52 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.70 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.00 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.72 at 65807.67 with 0.00151882btc
+
+Profit/Loss TOTAL: $-38.92 at 2024-07-31 23:01 BTC 63907
+Profit/Loss: $-13.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.35 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.41 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.89 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.10 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-38.95 at 2024-07-31 23:06 BTC 63905
+Profit/Loss: $-13.28 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.36 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.42 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.89 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.09 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-38.43 at 2024-07-31 23:09 BTC 63934
+Profit/Loss: $-13.08 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.19 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.31 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.85 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.31 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-38.43 at 2024-07-31 23:11 BTC 63934
+Profit/Loss: $-13.08 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.19 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.31 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.85 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.31 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-37.92 at 2024-07-31 23:16 BTC 63962
+Profit/Loss: $-12.89 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.02 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.21 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.80 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.53 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-36.38 at 2024-07-31 23:21 BTC 64047
+Profit/Loss: $-12.31 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.51 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.88 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.67 at 65807.67 with 0.00151882btc
+Profit/Loss: $1.19 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-40.35 at 2024-07-31 23:26 BTC 63828
+Profit/Loss: $-13.80 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.83 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.71 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.01 at 65807.67 with 0.00151882btc
+Profit/Loss: $-0.51 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-39.01 at 2024-07-31 23:31 BTC 63902
+Profit/Loss: $-13.30 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.38 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.43 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.89 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.06 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-40.89 at 2024-07-31 23:36 BTC 63798
+Profit/Loss: $-14.00 at 65862.78 with 0.00678153btc
+Profit/Loss: $-16.01 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.83 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.05 at 65807.67 with 0.00151882btc
+Profit/Loss: $-0.75 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-40.89 at 2024-07-31 23:41 BTC 63798
+Profit/Loss: $-14.00 at 65862.78 with 0.00678153btc
+Profit/Loss: $-16.01 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.83 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.05 at 65807.67 with 0.00151882btc
+Profit/Loss: $-0.75 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-39.73 at 2024-07-31 23:46 BTC 63862
+Profit/Loss: $-13.57 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.62 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.58 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.96 at 65807.67 with 0.00151882btc
+Profit/Loss: $-0.25 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-43.36 at 2024-07-31 23:52 BTC 63662
+Profit/Loss: $-14.92 at 65862.78 with 0.00678153btc
+Profit/Loss: $-16.83 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.34 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.26 at 65807.67 with 0.00151882btc
+Profit/Loss: $-1.81 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-43.83 at 2024-07-31 23:57 BTC 63636
+Profit/Loss: $-15.10 at 65862.78 with 0.00678153btc
+Profit/Loss: $-16.98 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.44 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.30 at 65807.67 with 0.00151882btc
+Profit/Loss: $-2.01 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-43.08 at 2024-08-01 00:02 BTC 63677
+Profit/Loss: $-14.82 at 65862.78 with 0.00678153btc
+Profit/Loss: $-16.74 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.29 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.24 at 65807.67 with 0.00151882btc
+Profit/Loss: $-1.69 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-44.95 at 2024-08-01 00:07 BTC 63574
+Profit/Loss: $-15.52 at 65862.78 with 0.00678153btc
+Profit/Loss: $-17.36 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.68 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.39 at 65807.67 with 0.00151882btc
+Profit/Loss: $-2.49 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-40.04 at 2024-08-01 00:12 BTC 63845
+Profit/Loss: $-13.68 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.73 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.65 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.98 at 65807.67 with 0.00151882btc
+Profit/Loss: $-0.38 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-38.90 at 2024-08-01 00:17 BTC 63908
+Profit/Loss: $-13.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.35 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.41 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.89 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.11 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-38.08 at 2024-08-01 00:22 BTC 63953
+Profit/Loss: $-12.95 at 65862.78 with 0.00678153btc
+Profit/Loss: $-15.08 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.24 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.82 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.46 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-36.63 at 2024-08-01 00:27 BTC 64033
+Profit/Loss: $-12.41 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.59 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.94 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.70 at 65807.67 with 0.00151882btc
+Profit/Loss: $1.08 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.92 at 2024-08-01 00:32 BTC 64183
+Profit/Loss: $-11.39 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.69 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.37 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.47 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.25 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-35.24 at 2024-08-01 00:38 BTC 64110
+Profit/Loss: $-11.89 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.13 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.64 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.58 at 65807.67 with 0.00151882btc
+Profit/Loss: $1.68 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-35.37 at 2024-08-01 00:43 BTC 64103
+Profit/Loss: $-11.93 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.17 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.67 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.59 at 65807.67 with 0.00151882btc
+Profit/Loss: $1.63 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.28 at 2024-08-01 00:48 BTC 64384
+Profit/Loss: $-10.03 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.48 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.60 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.16 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.81 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.87 at 2024-08-01 00:53 BTC 64296
+Profit/Loss: $-10.63 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.01 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.94 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.30 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.13 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-32.11 at 2024-08-01 00:58 BTC 64283
+Profit/Loss: $-10.71 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.09 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.99 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.32 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.03 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-32.56 at 2024-08-01 01:03 BTC 64258
+Profit/Loss: $-10.88 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.24 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.08 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.35 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.83 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.12 at 2024-08-01 01:08 BTC 64227
+Profit/Loss: $-11.09 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.43 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.20 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.40 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.59 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.79 at 2024-08-01 01:13 BTC 64190
+Profit/Loss: $-11.34 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.65 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.34 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.46 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.30 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.43 at 2024-08-01 01:18 BTC 64210
+Profit/Loss: $-11.21 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.53 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.26 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.43 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.46 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.81 at 2024-08-01 01:23 BTC 64189
+Profit/Loss: $-11.35 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.66 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.34 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.46 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.29 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.59 at 2024-08-01 01:29 BTC 64201
+Profit/Loss: $-11.27 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.58 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.30 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.44 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.39 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.57 at 2024-08-01 01:34 BTC 64202
+Profit/Loss: $-11.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.58 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.29 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.44 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.40 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-34.15 at 2024-08-01 01:39 BTC 64170
+Profit/Loss: $-11.48 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.77 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.42 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.49 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.15 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.29 at 2024-08-01 01:44 BTC 64383
+Profit/Loss: $-10.04 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.49 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.61 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.16 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.80 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.46 at 2024-08-01 01:49 BTC 64374
+Profit/Loss: $-10.10 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.54 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.64 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.18 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.73 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-32.67 at 2024-08-01 01:54 BTC 64252
+Profit/Loss: $-10.92 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.28 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.10 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.36 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.79 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.57 at 2024-08-01 01:59 BTC 64202
+Profit/Loss: $-11.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.58 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.29 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.44 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.40 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.43 at 2024-08-01 02:04 BTC 64210
+Profit/Loss: $-11.21 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.53 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.26 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.43 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.46 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-32.65 at 2024-08-01 02:09 BTC 64253
+Profit/Loss: $-10.92 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.27 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.10 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.36 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.79 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.13 at 2024-08-01 02:14 BTC 64337
+Profit/Loss: $-10.35 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.76 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.78 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.23 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.45 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.62 at 2024-08-01 02:20 BTC 64420
+Profit/Loss: $-9.78 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.27 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.47 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.11 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.09 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.28 at 2024-08-01 02:25 BTC 64384
+Profit/Loss: $-10.03 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.48 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.60 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.16 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.81 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.87 at 2024-08-01 02:30 BTC 64351
+Profit/Loss: $-10.25 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.68 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.73 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.21 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.56 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.04 at 2024-08-01 02:35 BTC 64342
+Profit/Loss: $-10.31 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.73 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.76 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.23 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.49 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.71 at 2024-08-01 02:40 BTC 64360
+Profit/Loss: $-10.19 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.63 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.69 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.20 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.63 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.48 at 2024-08-01 02:45 BTC 64373
+Profit/Loss: $-10.10 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.55 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.65 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.18 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.73 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.87 at 2024-08-01 02:50 BTC 64351
+Profit/Loss: $-10.25 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.68 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.73 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.21 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.56 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.98 at 2024-08-01 02:55 BTC 64345
+Profit/Loss: $-10.29 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.72 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.75 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.22 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.51 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-32.87 at 2024-08-01 03:00 BTC 64241
+Profit/Loss: $-11.00 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.34 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.15 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.38 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.70 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.83 at 2024-08-01 03:05 BTC 64298
+Profit/Loss: $-10.61 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.00 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.93 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.29 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.14 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.22 at 2024-08-01 03:11 BTC 64387
+Profit/Loss: $-10.01 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.46 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.59 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.16 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.84 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.15 at 2024-08-01 03:16 BTC 64391
+Profit/Loss: $-9.98 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.44 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.58 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.15 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.87 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.93 at 2024-08-01 03:21 BTC 64348
+Profit/Loss: $-10.27 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.70 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.74 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.22 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.53 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.84 at 2024-08-01 03:26 BTC 64408
+Profit/Loss: $-9.87 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.34 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.51 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.13 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.00 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.10 at 2024-08-01 03:31 BTC 64449
+Profit/Loss: $-9.59 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.09 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.36 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.06 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.32 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.68 at 2024-08-01 03:36 BTC 64417
+Profit/Loss: $-9.80 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.28 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.48 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.11 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.07 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.23 at 2024-08-01 03:41 BTC 64497
+Profit/Loss: $-9.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.80 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.17 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.99 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.69 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.81 at 2024-08-01 03:46 BTC 64520
+Profit/Loss: $-9.11 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.66 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.09 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.96 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.87 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.15 at 2024-08-01 03:51 BTC 64446
+Profit/Loss: $-9.61 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.11 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.37 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.07 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.29 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.08 at 2024-08-01 03:56 BTC 64395
+Profit/Loss: $-9.95 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.42 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.56 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.15 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.90 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.46 at 2024-08-01 04:02 BTC 64484
+Profit/Loss: $-9.35 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.88 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.22 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.01 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.59 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.65 at 2024-08-01 04:07 BTC 64474
+Profit/Loss: $-9.42 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.94 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.26 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.03 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.51 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.96 at 2024-08-01 04:12 BTC 64512
+Profit/Loss: $-9.16 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.71 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.12 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.97 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.81 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-26.87 at 2024-08-01 04:17 BTC 64572
+Profit/Loss: $-8.75 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.35 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.89 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.88 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.27 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-26.34 at 2024-08-01 04:22 BTC 64601
+Profit/Loss: $-8.56 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.18 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.78 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.83 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.50 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-26.63 at 2024-08-01 04:27 BTC 64585
+Profit/Loss: $-8.67 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.27 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.84 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.86 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.38 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.12 at 2024-08-01 04:32 BTC 64558
+Profit/Loss: $-8.85 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.43 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.94 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.90 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.17 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-26.73 at 2024-08-01 04:37 BTC 64580
+Profit/Loss: $-8.70 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.30 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.86 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.86 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.34 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.74 at 2024-08-01 04:42 BTC 64524
+Profit/Loss: $-9.08 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.64 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.07 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.95 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.90 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.29 at 2024-08-01 04:47 BTC 64549
+Profit/Loss: $-8.91 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.49 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.98 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.91 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.10 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.90 at 2024-08-01 04:53 BTC 64460
+Profit/Loss: $-9.51 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.02 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.32 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.05 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.40 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.08 at 2024-08-01 04:58 BTC 64450
+Profit/Loss: $-9.58 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.08 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.35 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.06 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.33 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.73 at 2024-08-01 05:03 BTC 64414
+Profit/Loss: $-9.82 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.30 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.49 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.12 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.05 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.65 at 2024-08-01 05:08 BTC 64308
+Profit/Loss: $-10.54 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.94 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.89 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.28 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.22 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.42 at 2024-08-01 05:13 BTC 64376
+Profit/Loss: $-10.08 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.53 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.63 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.17 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.75 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.84 at 2024-08-01 05:18 BTC 64353
+Profit/Loss: $-10.24 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.67 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.72 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.21 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.57 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.33 at 2024-08-01 05:23 BTC 64326
+Profit/Loss: $-10.42 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.83 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.82 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.25 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.36 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.24 at 2024-08-01 05:28 BTC 64386
+Profit/Loss: $-10.01 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.47 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.60 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.16 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.83 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.95 at 2024-08-01 05:33 BTC 64457
+Profit/Loss: $-9.53 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.04 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.33 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.05 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.38 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.92 at 2024-08-01 05:39 BTC 64459
+Profit/Loss: $-9.52 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.03 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.32 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.05 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.40 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.39 at 2024-08-01 05:44 BTC 64433
+Profit/Loss: $-9.70 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.19 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.42 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.09 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.19 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.99 at 2024-08-01 05:49 BTC 64455
+Profit/Loss: $-9.55 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.05 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.33 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.05 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.36 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.36 at 2024-08-01 05:54 BTC 64490
+Profit/Loss: $-9.31 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.84 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.20 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.00 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.64 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.10 at 2024-08-01 05:59 BTC 64504
+Profit/Loss: $-9.21 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.76 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.15 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.98 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.75 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.32 at 2024-08-01 06:04 BTC 64547
+Profit/Loss: $-8.92 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.50 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.98 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.91 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.08 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-26.47 at 2024-08-01 06:09 BTC 64594
+Profit/Loss: $-8.60 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.22 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.81 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.84 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.45 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.40 at 2024-08-01 06:14 BTC 64543
+Profit/Loss: $-8.95 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.52 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.00 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.92 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.05 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.35 at 2024-08-01 06:19 BTC 64435
+Profit/Loss: $-9.68 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.17 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.41 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.08 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.21 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.90 at 2024-08-01 06:24 BTC 64460
+Profit/Loss: $-9.51 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.02 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.32 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.05 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.40 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.25 at 2024-08-01 06:30 BTC 64496
+Profit/Loss: $-9.27 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.81 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.18 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.99 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.68 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.72 at 2024-08-01 06:35 BTC 64525
+Profit/Loss: $-9.07 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.63 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.07 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.95 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.91 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.37 at 2024-08-01 06:40 BTC 64489
+Profit/Loss: $-9.32 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.85 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.20 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.00 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.63 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.12 at 2024-08-01 06:45 BTC 64448
+Profit/Loss: $-9.59 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.10 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.36 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.07 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.31 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-26.27 at 2024-08-01 06:50 BTC 64605
+Profit/Loss: $-8.53 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.15 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.76 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.83 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.53 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-26.45 at 2024-08-01 06:55 BTC 64595
+Profit/Loss: $-8.60 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.21 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.80 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.84 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.45 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-25.46 at 2024-08-01 07:00 BTC 64650
+Profit/Loss: $-8.22 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.88 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.59 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.76 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.88 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-25.87 at 2024-08-01 07:05 BTC 64627
+Profit/Loss: $-8.38 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.02 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.68 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.79 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.70 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-24.75 at 2024-08-01 07:10 BTC 64689
+Profit/Loss: $-7.96 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.65 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.45 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.70 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.19 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-24.46 at 2024-08-01 07:15 BTC 64705
+Profit/Loss: $-7.85 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.55 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.39 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.67 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.31 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.39 at 2024-08-01 07:21 BTC 64764
+Profit/Loss: $-7.45 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.19 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.16 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.59 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.77 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.56 at 2024-08-01 07:26 BTC 64755
+Profit/Loss: $-7.51 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.25 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.20 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.60 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.70 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.52 at 2024-08-01 07:31 BTC 64757
+Profit/Loss: $-7.50 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.24 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.19 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.60 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.71 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.94 at 2024-08-01 07:36 BTC 64734
+Profit/Loss: $-7.65 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.38 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.27 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.63 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.54 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-21.13 at 2024-08-01 07:41 BTC 64889
+Profit/Loss: $-6.60 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.44 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.69 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.40 at 65807.67 with 0.00151882btc
+Profit/Loss: $7.74 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.52 at 2024-08-01 07:46 BTC 64757
+Profit/Loss: $-7.50 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.24 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.19 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.60 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.71 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.65 at 2024-08-01 07:51 BTC 64750
+Profit/Loss: $-7.55 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.28 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.21 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.61 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.66 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.41 at 2024-08-01 07:56 BTC 64763
+Profit/Loss: $-7.46 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.20 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.16 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.59 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.76 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-21.51 at 2024-08-01 08:01 BTC 64868
+Profit/Loss: $-6.75 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.57 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.77 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.43 at 65807.67 with 0.00151882btc
+Profit/Loss: $7.58 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-21.02 at 2024-08-01 08:06 BTC 64895
+Profit/Loss: $-6.56 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.41 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.66 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.39 at 65807.67 with 0.00151882btc
+Profit/Loss: $7.79 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.81 at 2024-08-01 08:12 BTC 64741
+Profit/Loss: $-7.61 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.33 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.25 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.62 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.59 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-25.15 at 2024-08-01 08:17 BTC 64667
+Profit/Loss: $-8.11 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.78 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.53 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.73 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.01 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-24.48 at 2024-08-01 08:22 BTC 64704
+Profit/Loss: $-7.86 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.56 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.39 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.68 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.30 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-25.77 at 2024-08-01 08:27 BTC 64633
+Profit/Loss: $-8.34 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.98 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.66 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.78 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.75 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-25.64 at 2024-08-01 08:32 BTC 64640
+Profit/Loss: $-8.29 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.94 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.63 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.77 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.80 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-26.31 at 2024-08-01 08:37 BTC 64603
+Profit/Loss: $-8.54 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.16 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.77 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.83 at 65807.67 with 0.00151882btc
+Profit/Loss: $5.52 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.96 at 2024-08-01 08:42 BTC 64512
+Profit/Loss: $-9.16 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.71 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.12 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.97 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.81 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.63 at 2024-08-01 08:47 BTC 64475
+Profit/Loss: $-9.41 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.93 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.26 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.02 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.52 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-24.30 at 2024-08-01 08:52 BTC 64714
+Profit/Loss: $-7.79 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.50 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.35 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.66 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.38 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-24.73 at 2024-08-01 08:57 BTC 64690
+Profit/Loss: $-7.95 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.64 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.44 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.70 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.19 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-23.10 at 2024-08-01 09:03 BTC 64780
+Profit/Loss: $-7.34 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.10 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.10 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.56 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.89 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-24.10 at 2024-08-01 09:08 BTC 64725
+Profit/Loss: $-7.72 at 65862.78 with 0.00678153btc
+Profit/Loss: $-10.43 at 66457.77 with 0.00601886btc
+Profit/Loss: $-4.31 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.64 at 65807.67 with 0.00151882btc
+Profit/Loss: $6.47 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.50 at 2024-08-01 09:13 BTC 64427
+Profit/Loss: $-9.74 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.22 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.44 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.10 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.15 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-27.59 at 2024-08-01 09:18 BTC 64532
+Profit/Loss: $-9.02 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.59 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.04 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.94 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.96 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-29.73 at 2024-08-01 09:23 BTC 64414
+Profit/Loss: $-9.82 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.30 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.49 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.12 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.05 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.02 at 2024-08-01 09:28 BTC 64343
+Profit/Loss: $-10.31 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.73 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.76 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.22 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.49 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.17 at 2024-08-01 09:33 BTC 64390
+Profit/Loss: $-9.99 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.45 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.58 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.15 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.86 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-37.45 at 2024-08-01 09:38 BTC 63988
+Profit/Loss: $-12.71 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.87 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.11 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.76 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.73 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.98 at 2024-08-01 09:43 BTC 64290
+Profit/Loss: $-10.67 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.05 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.96 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.31 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.08 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.67 at 2024-08-01 09:48 BTC 64362
+Profit/Loss: $-10.18 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.61 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.69 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.20 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.64 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-32.94 at 2024-08-01 09:54 BTC 64237
+Profit/Loss: $-11.03 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.37 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.16 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.39 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.67 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-34.88 at 2024-08-01 09:59 BTC 64130
+Profit/Loss: $-11.75 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.01 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.57 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.55 at 65807.67 with 0.00151882btc
+Profit/Loss: $1.84 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-37.59 at 2024-08-01 10:04 BTC 63980
+Profit/Loss: $-12.77 at 65862.78 with 0.00678153btc
+Profit/Loss: $-14.91 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.14 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.78 at 65807.67 with 0.00151882btc
+Profit/Loss: $0.67 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-41.58 at 2024-08-01 10:09 BTC 63760
+Profit/Loss: $-14.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-16.24 at 66457.77 with 0.00601886btc
+Profit/Loss: $-7.97 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.11 at 65807.67 with 0.00151882btc
+Profit/Loss: $-1.04 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-43.01 at 2024-08-01 10:14 BTC 63681
+Profit/Loss: $-14.80 at 65862.78 with 0.00678153btc
+Profit/Loss: $-16.71 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.27 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.23 at 65807.67 with 0.00151882btc
+Profit/Loss: $-1.66 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-44.32 at 2024-08-01 10:19 BTC 63609
+Profit/Loss: $-15.28 at 65862.78 with 0.00678153btc
+Profit/Loss: $-17.15 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.55 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.34 at 65807.67 with 0.00151882btc
+Profit/Loss: $-2.22 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-54.66 at 2024-08-01 10:24 BTC 63038
+Profit/Loss: $-19.16 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.58 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.71 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.21 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.66 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-53.41 at 2024-08-01 10:29 BTC 63107
+Profit/Loss: $-18.69 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.17 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.45 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.10 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.12 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-59.71 at 2024-08-01 10:34 BTC 62759
+Profit/Loss: $-21.05 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.26 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.77 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.63 at 65807.67 with 0.00151882btc
+Profit/Loss: $-8.83 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-58.46 at 2024-08-01 10:40 BTC 62828
+Profit/Loss: $-20.58 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.85 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.51 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.53 at 65807.67 with 0.00151882btc
+Profit/Loss: $-8.29 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-58.34 at 2024-08-01 10:45 BTC 62835
+Profit/Loss: $-20.53 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.80 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.48 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.51 at 65807.67 with 0.00151882btc
+Profit/Loss: $-8.24 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-57.63 at 2024-08-01 10:50 BTC 62874
+Profit/Loss: $-20.27 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.57 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.34 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.46 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.94 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-58.08 at 2024-08-01 10:55 BTC 62849
+Profit/Loss: $-20.44 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.72 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.43 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.49 at 65807.67 with 0.00151882btc
+Profit/Loss: $-8.13 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-52.01 at 2024-08-01 11:00 BTC 63184
+Profit/Loss: $-18.17 at 65862.78 with 0.00678153btc
+Profit/Loss: $-19.70 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.16 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.98 at 65807.67 with 0.00151882btc
+Profit/Loss: $-5.52 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-61.05 at 2024-08-01 11:05 BTC 62685
+Profit/Loss: $-21.55 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.71 at 66457.77 with 0.00601886btc
+Profit/Loss: $-12.05 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.74 at 65807.67 with 0.00151882btc
+Profit/Loss: $-9.41 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-55.47 at 2024-08-01 11:10 BTC 62993
+Profit/Loss: $-19.46 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.85 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.88 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.27 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.01 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-54.93 at 2024-08-01 11:15 BTC 63023
+Profit/Loss: $-19.26 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.67 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.77 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.23 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.78 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-54.84 at 2024-08-01 11:20 BTC 63028
+Profit/Loss: $-19.22 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.64 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.75 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.22 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.74 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-54.35 at 2024-08-01 11:25 BTC 63055
+Profit/Loss: $-19.04 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.48 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.65 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.18 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.53 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-54.44 at 2024-08-01 11:31 BTC 63050
+Profit/Loss: $-19.07 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.51 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.67 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.19 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.57 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-57.43 at 2024-08-01 11:36 BTC 62885
+Profit/Loss: $-20.19 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.50 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.29 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.44 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.85 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-57.14 at 2024-08-01 11:41 BTC 62901
+Profit/Loss: $-20.09 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.41 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.23 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.41 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.73 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-60.15 at 2024-08-01 11:46 BTC 62735
+Profit/Loss: $-21.21 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.41 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.86 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.67 at 65807.67 with 0.00151882btc
+Profit/Loss: $-9.02 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-58.46 at 2024-08-01 11:51 BTC 62828
+Profit/Loss: $-20.58 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.85 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.51 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.53 at 65807.67 with 0.00151882btc
+Profit/Loss: $-8.29 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-57.83 at 2024-08-01 11:56 BTC 62863
+Profit/Loss: $-20.34 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.64 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.38 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.47 at 65807.67 with 0.00151882btc
+Profit/Loss: $-8.02 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-57.63 at 2024-08-01 12:01 BTC 62874
+Profit/Loss: $-20.27 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.57 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.34 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.46 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.94 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-60.76 at 2024-08-01 12:06 BTC 62701
+Profit/Loss: $-21.44 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.61 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.99 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.72 at 65807.67 with 0.00151882btc
+Profit/Loss: $-9.28 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-61.18 at 2024-08-01 12:11 BTC 62678
+Profit/Loss: $-21.60 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.75 at 66457.77 with 0.00601886btc
+Profit/Loss: $-12.08 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.75 at 65807.67 with 0.00151882btc
+Profit/Loss: $-9.46 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-62.07 at 2024-08-01 12:16 BTC 62629
+Profit/Loss: $-21.93 at 65862.78 with 0.00678153btc
+Profit/Loss: $-23.04 at 66457.77 with 0.00601886btc
+Profit/Loss: $-12.27 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.83 at 65807.67 with 0.00151882btc
+Profit/Loss: $-9.84 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-61.11 at 2024-08-01 12:22 BTC 62682
+Profit/Loss: $-21.57 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.73 at 66457.77 with 0.00601886btc
+Profit/Loss: $-12.06 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.75 at 65807.67 with 0.00151882btc
+Profit/Loss: $-9.43 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-63.79 at 2024-08-01 12:27 BTC 62534
+Profit/Loss: $-22.57 at 65862.78 with 0.00678153btc
+Profit/Loss: $-23.62 at 66457.77 with 0.00601886btc
+Profit/Loss: $-12.63 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.97 at 65807.67 with 0.00151882btc
+Profit/Loss: $-10.58 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-63.70 at 2024-08-01 12:32 BTC 62539
+Profit/Loss: $-22.54 at 65862.78 with 0.00678153btc
+Profit/Loss: $-23.59 at 66457.77 with 0.00601886btc
+Profit/Loss: $-12.61 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.96 at 65807.67 with 0.00151882btc
+Profit/Loss: $-10.54 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-61.13 at 2024-08-01 12:37 BTC 62681
+Profit/Loss: $-21.58 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.73 at 66457.77 with 0.00601886btc
+Profit/Loss: $-12.07 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.75 at 65807.67 with 0.00151882btc
+Profit/Loss: $-9.44 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-64.04 at 2024-08-01 12:42 BTC 62520
+Profit/Loss: $-22.67 at 65862.78 with 0.00678153btc
+Profit/Loss: $-23.70 at 66457.77 with 0.00601886btc
+Profit/Loss: $-12.68 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.99 at 65807.67 with 0.00151882btc
+Profit/Loss: $-10.69 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-67.92 at 2024-08-01 12:47 BTC 62306
+Profit/Loss: $-24.12 at 65862.78 with 0.00678153btc
+Profit/Loss: $-24.99 at 66457.77 with 0.00601886btc
+Profit/Loss: $-13.49 at 65860.19 with 0.00379592btc
+Profit/Loss: $-5.32 at 65807.67 with 0.00151882btc
+Profit/Loss: $-12.35 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-66.00 at 2024-08-01 12:52 BTC 62412
+Profit/Loss: $-23.40 at 65862.78 with 0.00678153btc
+Profit/Loss: $-24.35 at 66457.77 with 0.00601886btc
+Profit/Loss: $-13.09 at 65860.19 with 0.00379592btc
+Profit/Loss: $-5.16 at 65807.67 with 0.00151882btc
+Profit/Loss: $-11.53 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-56.16 at 2024-08-01 12:57 BTC 62955
+Profit/Loss: $-19.72 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.08 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.03 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.33 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.31 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-54.71 at 2024-08-01 13:02 BTC 63035
+Profit/Loss: $-19.18 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.60 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.72 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.21 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.68 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-52.38 at 2024-08-01 13:07 BTC 63164
+Profit/Loss: $-18.30 at 65862.78 with 0.00678153btc
+Profit/Loss: $-19.82 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.23 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.02 at 65807.67 with 0.00151882btc
+Profit/Loss: $-5.68 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-52.67 at 2024-08-01 13:13 BTC 63148
+Profit/Loss: $-18.41 at 65862.78 with 0.00678153btc
+Profit/Loss: $-19.92 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.30 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.04 at 65807.67 with 0.00151882btc
+Profit/Loss: $-5.80 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-55.33 at 2024-08-01 13:18 BTC 63001
+Profit/Loss: $-19.41 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.81 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.85 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.26 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.95 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-49.95 at 2024-08-01 13:23 BTC 63298
+Profit/Loss: $-17.39 at 65862.78 with 0.00678153btc
+Profit/Loss: $-19.02 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.73 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.81 at 65807.67 with 0.00151882btc
+Profit/Loss: $-4.64 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-52.20 at 2024-08-01 13:28 BTC 63174
+Profit/Loss: $-18.23 at 65862.78 with 0.00678153btc
+Profit/Loss: $-19.76 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.20 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.00 at 65807.67 with 0.00151882btc
+Profit/Loss: $-5.60 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-55.20 at 2024-08-01 13:33 BTC 63008
+Profit/Loss: $-19.36 at 65862.78 with 0.00678153btc
+Profit/Loss: $-20.76 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.83 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.25 at 65807.67 with 0.00151882btc
+Profit/Loss: $-6.89 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-56.65 at 2024-08-01 13:38 BTC 62928
+Profit/Loss: $-19.90 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.25 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.13 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.37 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.52 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-56.16 at 2024-08-01 13:43 BTC 62955
+Profit/Loss: $-19.72 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.08 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.03 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.33 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.31 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-59.64 at 2024-08-01 13:48 BTC 62763
+Profit/Loss: $-21.02 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.24 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.76 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.62 at 65807.67 with 0.00151882btc
+Profit/Loss: $-8.80 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-59.64 at 2024-08-01 13:53 BTC 62763
+Profit/Loss: $-21.02 at 65862.78 with 0.00678153btc
+Profit/Loss: $-22.24 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.76 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.62 at 65807.67 with 0.00151882btc
+Profit/Loss: $-8.80 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-57.54 at 2024-08-01 13:58 BTC 62879
+Profit/Loss: $-20.23 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.54 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.32 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.45 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.90 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-56.87 at 2024-08-01 14:04 BTC 62916
+Profit/Loss: $-19.98 at 65862.78 with 0.00678153btc
+Profit/Loss: $-21.32 at 66457.77 with 0.00601886btc
+Profit/Loss: $-11.18 at 65860.19 with 0.00379592btc
+Profit/Loss: $-4.39 at 65807.67 with 0.00151882btc
+Profit/Loss: $-7.61 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-48.79 at 2024-08-01 14:43 BTC 63362
+Profit/Loss: $-16.96 at 65862.78 with 0.00678153btc
+Profit/Loss: $-18.63 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.48 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.71 at 65807.67 with 0.00151882btc
+Profit/Loss: $-4.14 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-51.65 at 2024-08-01 14:48 BTC 63204
+Profit/Loss: $-18.03 at 65862.78 with 0.00678153btc
+Profit/Loss: $-19.58 at 66457.77 with 0.00601886btc
+Profit/Loss: $-10.08 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.95 at 65807.67 with 0.00151882btc
+Profit/Loss: $-5.37 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-49.48 at 2024-08-01 14:53 BTC 63324
+Profit/Loss: $-17.22 at 65862.78 with 0.00678153btc
+Profit/Loss: $-18.86 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.63 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.77 at 65807.67 with 0.00151882btc
+Profit/Loss: $-4.43 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-48.05 at 2024-08-01 14:59 BTC 63403
+Profit/Loss: $-16.68 at 65862.78 with 0.00678153btc
+Profit/Loss: $-18.39 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.33 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.65 at 65807.67 with 0.00151882btc
+Profit/Loss: $-3.82 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-48.95 at 2024-08-01 15:04 BTC 63353
+Profit/Loss: $-17.02 at 65862.78 with 0.00678153btc
+Profit/Loss: $-18.69 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.52 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.73 at 65807.67 with 0.00151882btc
+Profit/Loss: $-4.21 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-49.01 at 2024-08-01 15:09 BTC 63350
+Profit/Loss: $-17.04 at 65862.78 with 0.00678153btc
+Profit/Loss: $-18.71 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.53 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.73 at 65807.67 with 0.00151882btc
+Profit/Loss: $-4.23 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-48.21 at 2024-08-01 15:14 BTC 63394
+Profit/Loss: $-16.74 at 65862.78 with 0.00678153btc
+Profit/Loss: $-18.44 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.36 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.67 at 65807.67 with 0.00151882btc
+Profit/Loss: $-3.89 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-46.31 at 2024-08-01 15:19 BTC 63499
+Profit/Loss: $-16.03 at 65862.78 with 0.00678153btc
+Profit/Loss: $-17.81 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.96 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.51 at 65807.67 with 0.00151882btc
+Profit/Loss: $-3.07 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-46.20 at 2024-08-01 15:24 BTC 63505
+Profit/Loss: $-15.99 at 65862.78 with 0.00678153btc
+Profit/Loss: $-17.77 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.94 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.50 at 65807.67 with 0.00151882btc
+Profit/Loss: $-3.03 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-50.44 at 2024-08-01 15:29 BTC 63271
+Profit/Loss: $-17.58 at 65862.78 with 0.00678153btc
+Profit/Loss: $-19.18 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.83 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.85 at 65807.67 with 0.00151882btc
+Profit/Loss: $-4.85 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-48.93 at 2024-08-01 15:34 BTC 63354
+Profit/Loss: $-17.01 at 65862.78 with 0.00678153btc
+Profit/Loss: $-18.68 at 66457.77 with 0.00601886btc
+Profit/Loss: $-9.51 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.73 at 65807.67 with 0.00151882btc
+Profit/Loss: $-4.20 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-41.94 at 2024-08-01 15:39 BTC 63740
+Profit/Loss: $-14.40 at 65862.78 with 0.00678153btc
+Profit/Loss: $-16.36 at 66457.77 with 0.00601886btc
+Profit/Loss: $-8.05 at 65860.19 with 0.00379592btc
+Profit/Loss: $-3.14 at 65807.67 with 0.00151882btc
+Profit/Loss: $-1.20 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-31.29 at 2024-08-01 15:44 BTC 64328
+Profit/Loss: $-10.41 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.82 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.82 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.25 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.38 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-33.39 at 2024-08-01 15:50 BTC 64212
+Profit/Loss: $-11.19 at 65862.78 with 0.00678153btc
+Profit/Loss: $-13.52 at 66457.77 with 0.00601886btc
+Profit/Loss: $-6.26 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.42 at 65807.67 with 0.00151882btc
+Profit/Loss: $2.47 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-28.14 at 2024-08-01 15:54 BTC 64502
+Profit/Loss: $-9.23 at 65862.78 with 0.00678153btc
+Profit/Loss: $-11.77 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.16 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.98 at 65807.67 with 0.00151882btc
+Profit/Loss: $4.73 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-22.32 at 2024-08-01 16:37 BTC 64823
+Profit/Loss: $-7.05 at 65862.78 with 0.00678153btc
+Profit/Loss: $-9.84 at 66457.77 with 0.00601886btc
+Profit/Loss: $-3.94 at 65860.19 with 0.00379592btc
+Profit/Loss: $-1.50 at 65807.67 with 0.00151882btc
+Profit/Loss: $7.23 at 63894.02 with 0.0077801btc
+
+Profit/Loss TOTAL: $-30.71 at 2024-08-01 22:16 BTC 64360
+Profit/Loss: $-10.19 at 65862.78 with 0.00678153btc
+Profit/Loss: $-12.63 at 66457.77 with 0.00601886btc
+Profit/Loss: $-5.69 at 65860.19 with 0.00379592btc
+Profit/Loss: $-2.20 at 65807.67 with 0.00151882btc
+Profit/Loss: $3.63 at 63894.02 with 0.0077801btc
+
+
+# change
+
+Profit/Loss TOTAL: $-5.50 at 2024-08-02 22:19 BTC 61478
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss: $-6.77 at 62907.59 with 0.0047334btc
+Profit/Loss: $1.27 at 61347.79 with 0.0097164btc
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss: $0.00 at 0 with 0btc
+
+Profit/Loss TOTAL: $-2.73 at 2024-08-02 22:34 BTC 61670
+Profit/Loss: $-5.86 at 62907.59 with 0.0047334btc
+Profit/Loss: $3.13 at 61347.79 with 0.0097164btc
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss: $0.00 at 0 with 0btc
+
+Profit/Loss TOTAL: $-2.73 at 2024-08-02 22:34 BTC 61670
+Profit/Loss: $-5.86 at 62907.59 with 0.0047334btc
+Profit/Loss: $3.13 at 61347.79 with 0.0097164btc
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss: $0.00 at 0 with 0btc
+
+Profit/Loss TOTAL: $-2.73 at 2024-08-02 22:35 BTC 61670
+Profit/Loss: $-5.86 at 62907.59 with 0.0047334btc
+Profit/Loss: $3.13 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-2.57 at 2024-08-02 22:40 BTC 61681
+Profit/Loss: $-5.81 at 62907.59 with 0.0047334btc
+Profit/Loss: $3.24 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-2.31 at 2024-08-02 22:45 BTC 61699
+Profit/Loss: $-5.72 at 62907.59 with 0.0047334btc
+Profit/Loss: $3.41 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-1.12 at 2024-08-02 22:49 BTC 61781
+Profit/Loss: $-5.33 at 62907.59 with 0.0047334btc
+Profit/Loss: $4.21 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-1.12 at 2024-08-02 22:50 BTC 61781
+Profit/Loss: $-5.33 at 62907.59 with 0.0047334btc
+Profit/Loss: $4.21 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-0.69 at 2024-08-02 22:52 BTC 61811
+Profit/Loss: $-5.19 at 62907.59 with 0.0047334btc
+Profit/Loss: $4.50 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-0.69 at 2024-08-02 22:53 BTC 61811
+Profit/Loss: $-5.19 at 62907.59 with 0.0047334btc
+Profit/Loss: $4.50 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $0.00 at 2024-08-02 23:04 BTC 61809
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss TOTAL: $0.00 at 2024-08-02 23:21 BTC 61785
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss TOTAL: $0.00 at 2024-08-02 23:23 BTC 61711
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss TOTAL: $0.00 at 2024-08-02 23:24 BTC 61711
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss TOTAL: $0.00 at 2024-08-02 23:52 BTC 61586
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss TOTAL: $0.00 at 2024-08-02 23:53 BTC 61599
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss TOTAL: $0.00 at 2024-08-02 23:54 BTC 61599
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss TOTAL: $0.00 at 2024-08-02 23:55 BTC 61599
+Profit/Loss: $0.00 at 0 with 0btc
+Profit/Loss TOTAL: $1074.34 at 2024-08-03 00:00 BTC 61443
+Profit/Loss: $-0.92 at 64500.0 with 0.0003btc
+Profit/Loss: $552.99 at 0 with 0.009btc
+Profit/Loss: $245.77 at 0 with 0.004btc
+Profit/Loss: $276.49 at 0 with 0.0045btc
+Profit/Loss: $552.99 at 0 with 0.009btc
+Profit/Loss TOTAL: $800882.00 at 2024-08-03 00:12 BTC 61607
+Profit/Loss: $61598.00 at 9.0 with 1.0btc
+Profit/Loss: $123214.00 at 0.0 with 2.0btc
+Profit/Loss: $246428.00 at 0.0 with 4.0btc
+Profit/Loss: $369642.00 at 0.0 with 6.0btc
+Profit/Loss: $492856.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800882.00 at 2024-08-03 00:12 BTC 61607
+Profit/Loss: $61598.00 at 9.0 with 1.0btc
+Profit/Loss: $123214.00 at 0.0 with 2.0btc
+Profit/Loss: $246428.00 at 0.0 with 4.0btc
+Profit/Loss: $369642.00 at 0.0 with 6.0btc
+Profit/Loss: $492856.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800713.00 at 2024-08-03 00:17 BTC 61594
+Profit/Loss: $61585.00 at 9.0 with 1.0btc
+Profit/Loss: $123188.00 at 0.0 with 2.0btc
+Profit/Loss: $246376.00 at 0.0 with 4.0btc
+Profit/Loss: $369564.00 at 0.0 with 6.0btc
+Profit/Loss: $492752.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800297.00 at 2024-08-03 00:22 BTC 61562
+Profit/Loss: $61553.00 at 9.0 with 1.0btc
+Profit/Loss: $123124.00 at 0.0 with 2.0btc
+Profit/Loss: $246248.00 at 0.0 with 4.0btc
+Profit/Loss: $369372.00 at 0.0 with 6.0btc
+Profit/Loss: $492496.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800297.00 at 2024-08-03 00:22 BTC 61562
+Profit/Loss: $61553.00 at 9.0 with 1.0btc
+Profit/Loss: $123124.00 at 0.0 with 2.0btc
+Profit/Loss: $246248.00 at 0.0 with 4.0btc
+Profit/Loss: $369372.00 at 0.0 with 6.0btc
+Profit/Loss: $492496.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800297.00 at 2024-08-03 00:22 BTC 61562
+Profit/Loss: $61553.00 at 9.0 with 1.0btc
+Profit/Loss: $123124.00 at 0.0 with 2.0btc
+Profit/Loss: $246248.00 at 0.0 with 4.0btc
+Profit/Loss: $369372.00 at 0.0 with 6.0btc
+Profit/Loss: $492496.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800427.00 at 2024-08-03 00:23 BTC 61572
+Profit/Loss: $61563.00 at 9.0 with 1.0btc
+Profit/Loss: $123144.00 at 0.0 with 2.0btc
+Profit/Loss: $246288.00 at 0.0 with 4.0btc
+Profit/Loss: $369432.00 at 0.0 with 6.0btc
+Profit/Loss: $492576.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800413.00 at 2024-08-03 00:25 BTC 61572
+Profit/Loss: $61549.00 at 23.0 with 1.0btc
+Profit/Loss: $123144.00 at 0.0 with 2.0btc
+Profit/Loss: $246288.00 at 0.0 with 4.0btc
+Profit/Loss: $369432.00 at 0.0 with 6.0btc
+Profit/Loss: $492576.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800413.00 at 2024-08-03 00:26 BTC 61572
+Profit/Loss: $61549.00 at 23.0 with 1.0btc
+Profit/Loss: $123144.00 at 0.0 with 2.0btc
+Profit/Loss: $246288.00 at 0.0 with 4.0btc
+Profit/Loss: $369432.00 at 0.0 with 6.0btc
+Profit/Loss: $492576.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $800366.00 at 2024-08-03 00:27 BTC 61572
+Profit/Loss: $61570.00 at 2.0 with 1.0btc
+Profit/Loss: $123138.00 at 3.0 with 2.0btc
+Profit/Loss: $246268.00 at 5.0 with 4.0btc
+Profit/Loss: $369390.00 at 7.0 with 6.0btc
+Profit/Loss: $492392.00 at 23.0 with 8.0btc
+Profit/Loss TOTAL: $-5.41 at 2024-08-03 00:31 BTC 61484
+Profit/Loss: $-6.74 at 62907.59 with 0.0047334btc
+Profit/Loss: $1.32 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-4.75 at 2024-08-03 00:36 BTC 61530
+Profit/Loss: $-6.52 at 62907.59 with 0.0047334btc
+Profit/Loss: $1.77 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $738913.56 at 2024-08-03 00:37 BTC 61530
+Profit/Loss: $553.56 at 23.0 with 0.009btc
+Profit/Loss: $123060.00 at 0.0 with 2.0btc
+Profit/Loss: $246120.00 at 0.0 with 4.0btc
+Profit/Loss: $369180.00 at 0.0 with 6.0btc
+Profit/Loss: $492240.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $739069.68 at 2024-08-03 00:37 BTC 61543
+Profit/Loss: $553.68 at 23.0 with 0.009btc
+Profit/Loss: $123086.00 at 0.0 with 2.0btc
+Profit/Loss: $246172.00 at 0.0 with 4.0btc
+Profit/Loss: $369258.00 at 0.0 with 6.0btc
+Profit/Loss: $492344.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $738529.28 at 2024-08-03 00:42 BTC 61498
+Profit/Loss: $553.27 at 23.0 with 0.009btc
+Profit/Loss: $122996.00 at 0.0 with 2.0btc
+Profit/Loss: $245992.00 at 0.0 with 4.0btc
+Profit/Loss: $368988.00 at 0.0 with 6.0btc
+Profit/Loss: $491984.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $738757.45 at 2024-08-03 00:48 BTC 61517
+Profit/Loss: $553.45 at 23.0 with 0.009btc
+Profit/Loss: $123034.00 at 0.0 with 2.0btc
+Profit/Loss: $246068.00 at 0.0 with 4.0btc
+Profit/Loss: $369102.00 at 0.0 with 6.0btc
+Profit/Loss: $492136.00 at 0.0 with 8.0btc
+Profit/Loss TOTAL: $-4.94 at 2024-08-03 00:48 BTC 61517
+Profit/Loss: $-6.58 at 62907.59 with 0.0047334btc
+Profit/Loss: $1.64 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-4.59 at 2024-08-03 00:53 BTC 61541
+Profit/Loss: $-6.47 at 62907.59 with 0.0047334btc
+Profit/Loss: $1.88 at 61347.79 with 0.0097164btc
+Profit/Loss TOTAL: $-2.76 at 2024-08-03 00:58 BTC 61668
+Profit/Loss: $-5.87 at 62907.59 with 0.0047334btc
+Profit/Loss: $3.11 at 61347.79 with 0.0097164btc

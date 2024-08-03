@@ -1,0 +1,10 @@
+amount1 = 1.0
+execution_price1 = 2.0
+amount2 = 2.0
+execution_price2 = 3.0
+amount3 = 4.0
+execution_price3 = 5.0
+amount4 = 6.0
+execution_price4 = 7.0
+amount5 = 8.0
+execution_price5 = 23.0
